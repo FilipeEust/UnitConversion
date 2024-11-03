@@ -1,5 +1,12 @@
-bin/
-.vscode/
+##  Arquivos    ##
 *.class
 *.log
 *.tmp
+*.iml
+
+##  IntelliJ    ##
+.idea/
+
+##  VSCode      ##
+.vscode/
+bin/
